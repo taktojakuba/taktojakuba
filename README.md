@@ -4,7 +4,7 @@
 <h2>A passionate HTML developer</h2>
 
 <p>🌐 My homepage:</p>
-<p><a href="https://jsbkgg.space">https://taktojakuba.github.io/</a></p>
+<p><a href="https://jsbkgg.space">jsbkgg.space</a></p>
 
 <br>
 
