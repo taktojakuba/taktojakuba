@@ -1,4 +1,5 @@
 <div align="center">
+<img src="neon-genesis-evangelion.gif">
 <h1>
   Hi 👋, I'm Jakub
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
